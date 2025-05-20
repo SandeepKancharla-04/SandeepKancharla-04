@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sandeep Kancharla – DevOps & AWS Cloud Engineer</h1>
+<h1 align="center">Hi there, I'm Sandeep Kancharla – DevOps & AWS Engineer</h1>
 
 <p align="center">
   <em>AWS Certified | Cloud Automation Enthusiast | CI/CD Specialist | Infrastructure as Code Advocate</em>
