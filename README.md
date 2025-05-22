@@ -29,16 +29,16 @@
 
 ### 🔥 Featured Projects
 
-#### [terraform-aws-infrastructure](https://github.com/yourusername/terraform-aws-infrastructure)
+#### [terraform-aws-infrastructure](https://github.com/SandeepKancharla-04/terraform-aws-infrastructure)
 Provision a complete AWS environment with Terraform modules. Includes S3 backend, VPC, EC2, and RDS provisioning.
 
-#### [ci-cd-pipeline-eks](https://github.com/yourusername/ci-cd-pipeline-eks)
+#### [ci-cd-pipeline-eks](https://github.com/SandeepKancharla-04/ci-cd-pipeline-eks)
 A production-grade CI/CD pipeline using GitHub Actions to build and deploy Docker apps to Amazon EKS.
 
-#### [aws-lambda-api](https://github.com/yourusername/aws-lambda-api)
+#### [aws-lambda-api](https://github.com/SandeepKancharla-04/aws-lambda-api)
 A serverless microservice with Lambda + API Gateway + DynamoDB. Managed using AWS SAM and automated deployments.
 
-#### [monitoring-stack-aws](https://github.com/yourusername/monitoring-stack-aws)
+#### [monitoring-stack-aws](https://github.com/SandeepKancharla-04/monitoring-stack-aws)
 Deploy a full observability stack (Prometheus + Grafana) for AWS workloads with EC2 and EKS support.
 
 ---
@@ -47,7 +47,7 @@ Deploy a full observability stack (Prometheus + Grafana) for AWS workloads with 
 
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandeepKancharla-04&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepKancharla-04&layout=compact)
 
 ---
 
